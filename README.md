@@ -7,7 +7,7 @@ Netflix Subscriptions.csv: CSV file containing the historical data of Netflix su
 
 netflix_growth_analysis.ipynb: Jupyter Notebook containing the Python code for data analysis and visualization.
 
-README.md: This file providing an overview of the project and instructions for use.
+README.md: This file provides an overview of the project and instructions for use.
 
 ## Dependencies
 Make sure to have the following Python libraries installed:
@@ -15,8 +15,6 @@ Make sure to have the following Python libraries installed:
 pip install pandas numpy matplotlib plotly statsmodels
 
 ## Additional Information
-
-Aman Kharwal's article inspired me to do this project.
 
 The notebook includes detailed comments and explanations for each step of the analysis.
 
