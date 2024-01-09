@@ -15,10 +15,13 @@ Make sure to have the following Python libraries installed:
 pip install pandas numpy matplotlib plotly statsmodels
 
 ## Additional Information
+
+Aman Kharwal's article inspired me to do this project.
+
 The notebook includes detailed comments and explanations for each step of the analysis.
 
 Feel free to customize the code for your specific needs or add new visualizations.
 
 Contributions and suggestions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
-Happy analyzing!
+
